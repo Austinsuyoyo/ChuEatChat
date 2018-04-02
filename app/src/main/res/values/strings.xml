@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Stop Phubbing</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="open">ON</string>
+    <string name="close">OFF</string>
+    <string name="scan">SearchDevice</string>
+    <string name="start">START</string>
+    <string name="bio">修改個人資料</string>
+    <string name="japanfood">日式料理</string>
+    <string name="koreafood">韓式料理</string>
+    <string name="gather">我的聚會</string>
+    <string name="goodgoodeat">好好吃飯管家</string>
+    <string name="talkshow">話題神燈</string>
+</resources>

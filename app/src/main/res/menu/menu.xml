@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:title="基本資料">
+        <menu>
+            <item
+                android:icon="@drawable/ic_mode_edit"
+                android:id="@+id/nav_bio"
+                android:title="@string/bio" />
+        </menu>
+    </item>
+    <item android:title="社群">
+        <menu>
+            <item
+                android:icon="@drawable/ic_local_dining"
+                android:id="@+id/nav_japanfood"
+                android:title="@string/japanfood" />
+            <item
+                android:icon="@drawable/ic_local_dining"
+                android:id="@+id/nav_koreafood"
+                android:title="@string/koreafood" />
+        </menu>
+    </item>
+    <item android:title="行事曆">
+        <menu>
+            <item
+                android:icon="@drawable/ic_supervisor"
+                android:id="@+id/nav_gather"
+                android:title="@string/gather" />
+        </menu>
+    </item>
+    <item android:title="藍芽">
+        <menu>
+            <item
+                android:icon="@drawable/ic_bluetooth_searching"
+                android:id="@+id/nav_goodgoodeat"
+                android:title="@string/goodgoodeat" />
+            <item
+                android:icon="@drawable/ic_mode_comment"
+                android:id="@+id/nav_talkshow"
+                android:title="@string/talkshow" />
+        </menu>
+    </item>
+
+</menu>
