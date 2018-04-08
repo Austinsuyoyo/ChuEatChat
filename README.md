@@ -1,5 +1,9 @@
 # ChuEatChat
-揪EatChat
+TKU Hackathon
+
+Team Name  : 香豆富漲價隊 - 揪EatChat 
+
+Team Member:[WU,DONG-YE](https://github.com/waxzdert),[Fang-Ning Yang](https://github.com/candy46410330),[WANG,YI-YU]()
 
 ## Problem 為什麼會變低頭族？
 - 為了找話題聊天
